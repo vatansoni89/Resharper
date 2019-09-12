@@ -30,3 +30,21 @@ Shortcuts:
     NavigateToThis: Ctrl+1
     DeletingThis: Press again ctrl+shift+1
     Navigate: Ctrl+'
+
+CodeAnalysis:
+  remove unused using: alt+enter
+  quick fix: alt+enter
+  
+CodingAssisTance:
+  Generate code: alt+enter
+  Duplicating code: Ctrl+D
+  Complete statement: Ctrl+Shift+Enter
+  
+CodeCompletion:
+  arguments.: will give u if snippet template to check if argu is null or not null
+  ctorF: Initialize fields in constructor.
+  ctorP: Initialize properties in constructor.
+  ctorFP: Initialize fields and properties in constructor.
+  
+  
+  

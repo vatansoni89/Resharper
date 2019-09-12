@@ -4,3 +4,29 @@ ResharperUltimate
   dotTrace for performance profiler
   dotMemory for memo profiler
   dotPeek for debug nondownloaded symbols
+
+Tools
+  Options
+    Resharper
+    
+Environment:
+  IntelliSense
+    General
+      ReSharper
+      
+Code Editing
+  File Header Text
+  
+SearchAndNavigation:
+  GoToEveryThing
+    Ctrl+T / Ctrl+N (InteliJ)
+  GoToDeclaration
+    F12
+  
+Shortcuts:
+  Alt+Enter: shows override property from
+  alt+': * Navigate To
+  Bookmark: ctrl+shift+1 (will create bookmark 1)
+    NavigateToThis: Ctrl+1
+    DeletingThis: Press again ctrl+shift+1
+    Navigate: Ctrl+'

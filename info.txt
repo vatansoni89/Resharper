@@ -55,5 +55,8 @@ CodeGeneration:
     etc
  Create New File: ctrl + alt + Insert
 
+Refactoring: 
+  Refactor: Ctrl+Shift+R
+  
   
   

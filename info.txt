@@ -1,1 +1,6 @@
 
+ResharperUltimate
+  dotCover for code cverage
+  dotTrace for performance profiler
+  dotMemory for memo profiler
+  dotPeek for debug nondownloaded symbols

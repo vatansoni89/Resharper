@@ -46,5 +46,14 @@ CodeCompletion:
   ctorP: Initialize properties in constructor.
   ctorFP: Initialize fields and properties in constructor.
   
+CodeGeneration:
+  Generate code: alt+ insert
+  SurroundTemplate: select code + alt + enter (or Ctrl+E, U)
+    if:
+    try:
+    while:
+    etc
+ Create New File: ctrl + alt + Insert
+
   
   

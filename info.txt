@@ -58,5 +58,8 @@ CodeGeneration:
 Refactoring: 
   Refactor: Ctrl+Shift+R
   
-  
+ Visual Studio Shortcut:
+   Collapse to defination: (Ctrl+M, Ctrl+O) - Collapses the members of all types.
+   Open: (Ctrl+M, Ctrl+L) 
+     
   
